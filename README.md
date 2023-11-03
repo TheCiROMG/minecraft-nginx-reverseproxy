@@ -14,6 +14,9 @@ It is a reverse proxy in stream and server mode that runs incoming connections f
 
 3.b) Ubuntu 20.04 or higher is recommended (Or a lightweight Linux system compatible with Nginx 1.15 and higher)
 
+## ATTENTION
+
+Depending on the system used and the version of NGINX installed, it is possible that the configuration files are not in their respective place mentioned in Git, so you will have to look for how to change the respective reading path of the file to your taste or use the one that comes by default in your respective installation (THE ROUTE DOES NOT CHANGE ANYTHING ABOUT ITS FUNCTIONALITY)
 
 ## How to use
 
