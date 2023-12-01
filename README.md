@@ -4,7 +4,7 @@ It is a reverse proxy in stream and server mode that runs incoming connections f
 
 ## Requirements
 
-1) Nginx 1.15
+1) Nginx 1.25.3
 
 2) Open ports
 
