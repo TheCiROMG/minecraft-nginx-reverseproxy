@@ -23,9 +23,9 @@ Depending on the system used and the version of NGINX installed, it is possible 
 1) Modify/rewrite the nginx.conf configuration of the root folder located in /etc/nginx
 (Configure on demand)
 
-2) Restart the service with “systemctl restart nginx” or the respective system command
+2) Modify the configuration file to your liking and use "nginx -t" to test the file without making changes, once the test has passed, continue manipulating it
 
-3) Look for errors in the configuration and repeat point 2
+3) Restart the service with “systemctl restart nginx” or the respective system command
 
 4) Try pinging and searching for the server of the corresponding game
 
