@@ -10,9 +10,9 @@ It is a reverse proxy in stream and server mode that runs incoming connections f
 
 3) Compatible system with or without firewall running an Nginx compatible system
 
-3.a) Do not use systems that are not supported, for compatibility reasons you can only use old versions and that will not work
+3.a) Do not use systems that are not compatible, for compatibility reasons you can only use modern versions that do not generate compatibility issues.
 
-3.b) Ubuntu 20.04 or higher is recommended (Or a lightweight Linux system compatible with Nginx 1.15 and higher)
+3.b) Ubuntu 20.04 or higher is recommended (Or a light Linux system compatible with Nginx 1.15 and higher)
 
 ## ATTENTION
 
