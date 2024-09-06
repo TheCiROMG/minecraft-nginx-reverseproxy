@@ -12,7 +12,7 @@ It is a reverse proxy in stream and server mode that runs incoming connections f
 
 3.a) Do not use systems that are not compatible, for compatibility reasons you can only use modern versions that do not generate compatibility issues.
 
-3.b) Ubuntu 20.04 or higher is recommended (Or a light Linux system compatible with Nginx 1.15 and higher)
+3.b) Ubuntu 20.04 or higher is recommended (Or a light Linux system compatible with Nginx 1.25 and higher)
 
 ## ATTENTION
 
